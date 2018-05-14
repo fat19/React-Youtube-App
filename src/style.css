@@ -1,0 +1,19 @@
+.videoThumb {
+    overflow: hidden;
+}
+
+.list-group-item {
+    cursor: pointer;
+}
+
+.search-bar,
+.video-details {
+    margin: 20px;
+    border: 1px solid #dddddd;
+    padding: 15px;
+    border-radius: 4px;
+}
+
+.video {
+    margin: 20px;
+}
